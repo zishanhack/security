@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- Home / Hero Section -->
+    <url>
+        <loc>https://security.zishanhack.com/</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Emergency Section -->
+    <url>
+        <loc>https://security.zishanhack.com/#emergency</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Services Section -->
+    <url>
+        <loc>https://security.zishanhack.com/#services</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Security Methodology / Approach -->
+    <url>
+        <loc>https://security.zishanhack.com/#approach</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Process Section -->
+    <url>
+        <loc>https://security.zishanhack.com/#process</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Industries Section -->
+    <url>
+        <loc>https://security.zishanhack.com/#industries</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Contact Section -->
+    <url>
+        <loc>https://security.zishanhack.com/#contact</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- CTA Section (indexed separately as important conversion point) -->
+    <url>
+        <loc>https://security.zishanhack.com/#cta-section</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Individual Service Pages (implied from #services anchor) -->
+    <url>
+        <loc>https://security.zishanhack.com/#security-consultation</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://security.zishanhack.com/#threat-intelligence</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://security.zishanhack.com/#incident-response</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://security.zishanhack.com/#penetration-testing</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://security.zishanhack.com/#soc-services</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://security.zishanhack.com/#compliance-support</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
